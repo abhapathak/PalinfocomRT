@@ -6,6 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+.top-nav{
+  background-color: #1f4a68;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
