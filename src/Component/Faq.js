@@ -2,7 +2,7 @@ import react from "react"
 
 function Faq(){
     return(
-<div>jghjhj</div>
+<div>jghjhj test</div>
     );
 }
 export default Faq;
